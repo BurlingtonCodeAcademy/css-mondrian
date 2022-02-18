@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+}
+
+#grid {
+    display: grid;
+    size: 60vw;
+    background-color: bisque;
+    border: 2px;
+}
+
+.list {
+    width: 5%;
+    border: 2px;
+    background-color: aquamarine;
+}
